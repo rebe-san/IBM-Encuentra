@@ -5,7 +5,7 @@
 
 
 ## INTRODUCCIÓN
-
+[Recursos adicionales](https://drive.google.com/drive/folders/1jGMpWZSCEUWBNvt9vGMFLQCDRpD2YOh1)
 
 Para ser emprendedor no es necesario tener capital. Con una buena idea y un buen plan llegan los inversionistas. La idea de Frida se basa en el trueque, una de las de las actividades más antiguas relacionadas con el comercio. [Presentación](https://www.canva.com/design/DADhh9ofZlg/8Z4PBCIbhpkyPtnpCzW0pQ/edit)
 
@@ -29,7 +29,7 @@ Hoy en día es posible que un viajero pueda dormir de forma gratuita en la casa 
 
 - Beneficio medioambiental. La reutilización y los servicios compartidos son una buena manera. Se promociona la cultura de reciclaje. 
 
-Ya existen algunas empresas tecnológicas mexicanas que ofrecen el servicio de intermediarios entre oferentes y demandantes de bienes y servicios sin movimientos de efectivo; sin embargo, **estas aún no ofrecen una seguridad de entrega satisfactoria de los bienes, así como la confidencialidad de información.**
+Ya existen algunas empresas tecnológicas mexicanas que ofrecen el servicio de intermediarios entre oferentes y demandantes de bienes y servicios sin movimientos de efectivo; sin embargo, **aún no ofrecen una seguridad de entrega satisfactoria de los bienes, así como la confidencialidad de información.**
 
 
 
@@ -55,31 +55,41 @@ Asimismo, 4 de cada 10 no compradores cree que el proceso de compra es inseguro.
 
 ## ENCUENTRA
 
-**“Encuentra” es una empresa 100% mexicana que se basa en el trueque de productos/servicios vía Internet, proceso que beneficia el ahorro, contribuye al medio ambiente y beneficia a las pequeñas y medias empresas.**
+**“Encuentra” es una empresa 100% mexicana que se basa en el trueque de productos/servicios vía Internet, proceso que da valor al usuario de acuerdo con sus actividades profesionales, además contribuye a la comunidad y beneficia a las pequeñas y medianas empresas.**
 
-Frida creo una plataforma digital gratuita donde la gente puede intercambiar productos que no utiliza pero funcionan, por otros artículos o incluso servicios profesionales.
+## VALOR DE LA APLICACIÓN WEB
 
-Las ventajas de “Encuentra”, son que no descapitaliza a los usuarios, beneficia el ahorro con el intercambio de artículos, contribuye al cuidado del medio ambiente, debido al reciclado de productos, y se beneficia a empresas que van comenzando.
+A diferencia del trueque tradicional "Encuentra" no se enfoca en el intercambio de productos/servicios de segunda mano o que se pueden desechar, sino en compartir aquellos que pueden contribuir al crecimiento del otro.
 
-La idea es mantenerlo gratuito, pues no tiene sentido ofrecer un servicio que tiene la misión de impulsar el ahorro y pedir que se cobre por su uso , es por eso que la plataforma digital se financia a través de la publicidad.
+Las ventajas de “Encuentra”, son que no descapitaliza a los usuarios, beneficia el ahorro con el intercambio, y se beneficia a los usuarios potencializando sus habilidades.
 
+ ## ARQUITECTURA
 
-**¿CÓMO HACER TRUEQUE?**
+ ### Diagrama de flujo
 
-El uso de la página es sencillo. El primer paso es registrar los datos personales. Luego de haber concluido con dicho proceso, se coloca una foto del producto que se desea cambiar con información acerca del mismo. A partir de ahí se realizan dos métodos, el primero es elegir un producto que se necesite y negociar su cambio por otro que ofrecemos. El segundo es esperar a algún candidato que se interese por tu oferta y así intercambiar el artículo. El último paso es realizar una cita en un punto específico donde se procederá al cambio físico del servicio, accesorio o aparato que fue ofertado.
+ El primer paso es registar los datos personales. "Encuentra" cuenta en su home con un Inicio y Registro. En el registro el usuario podrá ingresar también sus intereses.
 
+ Una vez iniciada su sesión el usuario ingresará con foto los productos/servicios que desea intercambiar.
+ 
+ A partir de ahí se realizan dos métodos, el primero es elegir un producto que se necesite y negociar su cambio por otro que ofrecemos. El segundo es esperar a algún candidato que se interese por tu oferta y así intercambiar el artículo. 
+ 
+ El último paso es realizar una cita en un punto específico donde se procederá al cambio físico del servicio, accesorio o aparato que fue ofertado.
 
-
-
-# HISTORIAS DE USUARIO
+ # HISTORIAS DE USUARIO
 
 - Como usuario quiero que mis datos estén protegidos contra todo robo de información
 - Como usuario quiero que las personas con las que interactúe sean confiables 
 - Como usuario quiero ingresar los productos/servicios que ofrezco y ver los productos/servicios que hay
+
+ ## SEGURIDAD
+
+
+
+
 
 
 # PROTOTIPO DE BAJA FIDELIDAD
 
 ![sketch](img/baja.png)
 
-# PROTOTIPO DE ALTA FIDELIDAD
+
