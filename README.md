@@ -6,6 +6,7 @@
 
 ## INTRODUCCIÓN
 [Recursos adicionales](https://drive.google.com/drive/folders/1jGMpWZSCEUWBNvt9vGMFLQCDRpD2YOh1)
+[Demo-Chatbot](https://assistant-chat-us-south.watsonplatform.net/web/public/58d0eced-5825-41e2-800b-21294777ed60)
 
 Para ser emprendedor no es necesario tener capital. Con una buena idea y un buen plan llegan los inversionistas. La idea de Frida se basa en el trueque, una de las de las actividades más antiguas relacionadas con el comercio. [Presentación](https://www.canva.com/design/DADhh9ofZlg/8Z4PBCIbhpkyPtnpCzW0pQ/edit)
 
